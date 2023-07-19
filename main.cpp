@@ -1,8 +1,7 @@
 #include "clip.h"
 #include "llama.h"
 
-int main()
-{
+int main() {
     printf("Hello from LLava.cpp\n");
     return 0;
 }
